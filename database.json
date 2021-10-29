@@ -79,7 +79,7 @@
       "country": "India"
     },
     {
-      "name": "Lamia Thasni O Nysam,
+      "name": "Lamia Thasni O Nysam",
       "phone": "7034587762",
       "blood_group": "O+ve",
       "address": "Oolikkara(H) Puthuvassery Nedumbassery P.O",
@@ -89,6 +89,15 @@
       "phone": "7736890133",
       "blood_group": "AB+",
       "address": "Mattancherry 682002",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    {
+      "name": "Shanavas KS",
+      "phone": "9746060655",
+      "blood_group": "B+",
+      "address": "Shamnaz Manzil Muttom 683106",
       "district": "Ernakulam",
       "state": "Kerala",
       "country": "India"
